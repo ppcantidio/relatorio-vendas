@@ -1,0 +1,1 @@
+# Instruções para uso do dashboard\n\n1. Clone o repositório.\n2. Instale as dependências com `pip install -r requirements.txt`.\n3. Execute o aplicativo com `streamlit run app.py`.\n4. Acesse o dashboard em `http://localhost:8501`.\n
